@@ -5,7 +5,7 @@
 still learning how to make a better read me 😂
 more to come 👍
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadona=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadona&layout=compact)](https://github.com/rafadona)
 
 
 
