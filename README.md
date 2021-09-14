@@ -2,8 +2,6 @@
 - 👀 I’m interested in Front End development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 
-still learning how to make a better read me 😂
-more to come 👍
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadona&layout=compact&theme=radical)](https://github.com/rafadona)
 
