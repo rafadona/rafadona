@@ -9,6 +9,9 @@ Sou aberto ao novo, às mudanças e motivado para novos desafios, buscando alter
 
 
 
+https://www.linkedin.com/in/rafael-dona/
+
+
 <!---
 rafadona/rafadona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
