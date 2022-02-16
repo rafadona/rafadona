@@ -4,11 +4,6 @@ Sendo tão curioso, acabo aprendendo por conta própria a maioria das coisas. Pe
 
 Sou aberto ao novo, às mudanças e motivado para novos desafios, buscando alternativas para os problemas e engajando as pessoas em prol de um objetivo comum.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafadona&layout=compact&theme=radical)](https://github.com/rafadona)
-
-
-
 https://www.linkedin.com/in/rafael-dona/
 
 
